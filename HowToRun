@@ -1,0 +1,6 @@
+Open Terminal in the directory and follow the command below:-
+
+python yolo_opencv.py --image dog.jpg --config yolov3.cfg --weights yolov3.weights --classes yolov3.txt 
+
+
+To save the output image press ctrl+s and save the output image.
